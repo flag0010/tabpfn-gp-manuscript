@@ -1,0 +1,19 @@
+Species,Trait,TabPFN-3.5,GBLUP,RKHS,GBLUP-thin,ENet,Best published,Rank of 19
+Soybean,R8,0.505,0.480,0.488,--,0.397,0.492 (EN11),1
+Soybean,height,0.511,0.467,0.470,--,0.264,0.468 (BayesA),1
+Soybean,yield,0.677,0.655,0.660,--,0.644,0.650 (EN11),1
+White spruce,DBH,0.279,0.253,0.272,--,0.185,0.275 (RF),1
+White spruce,height,0.350,0.328,0.344,--,0.268,0.346 (RF),1
+White spruce,wood density,0.405,0.429,0.437,--,0.395,0.398 (EN11),1
+Switchgrass,anthesis date,0.897,0.873,0.870,0.870,0.822$^\dagger$,0.855 (rrBLUP),1
+Switchgrass,height,0.620,0.611,0.611,0.606,0.586$^\dagger$,0.615 (SVRpoly),1
+Switchgrass,standability,0.685,0.691,0.691,0.683,0.654$^\dagger$,0.693 (SVRrbf),9
+Sorghum,grain moisture,0.527,0.536,0.539,0.530,0.498$^\dagger$,0.572 (EN11),13
+Sorghum,height,0.600,0.619,0.622,0.616,0.571$^\dagger$,0.628 (BayesB),11
+Sorghum,yield,0.397,0.393,0.402,0.391,0.334$^\dagger$,0.411 (BRR),8
+Maize,flowering time,0.741,0.724,0.715,0.717,0.684$^\dagger$,0.765 (BRR),8
+Maize,height,0.502,0.488,0.475,0.489,0.453$^\dagger$,0.448 (EN5),1
+Maize,yield,0.585,0.536,0.529,0.543,0.530$^\dagger$,0.546 (EN5),1
+Rice,flowering time,0.612,0.557,0.566,0.549,0.346$^\dagger$,0.650 (BayesB),3
+Rice,height,0.388,0.396,0.383,0.400,0.236$^\dagger$,0.408 (EN11),5
+Rice,yield,0.471,0.458,0.460,0.461,0.101$^\dagger$,0.385 (EN11),1

@@ -1,0 +1,6 @@
+tabpfn==9.1.0
+numpy
+pandas
+scipy
+scikit-learn>=1.9
+matplotlib

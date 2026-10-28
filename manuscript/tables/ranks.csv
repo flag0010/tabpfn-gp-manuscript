@@ -1,0 +1,8 @@
+Method,Median rank (of 19),Tests ranked first,Tests in top 3
+TabPFN-3.5,1,11,12
+EN11 (ensemble of 11 methods),3.5,2,9
+BayesA,5,0,7
+EN5 (ensemble of 5 methods),5.5,0,4
+Bayesian ridge regression,6,2,2
+rrBLUP,6,0,6
+BayesB,7,2,2
