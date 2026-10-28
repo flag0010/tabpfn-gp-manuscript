@@ -1,0 +1,22 @@
+# Raw Azodi et al. 2019 data, unpacked from data/mirror by data/prepare_data.py
+data/*_geno.csv
+data/*_pheno.csv
+data/*_CVFs.csv
+data/README.txt
+# Cached numpy copies of the genotype files (comparison_holdout.py)
+data/npy/
+
+# LaTeX build files (manuscript/main.pdf is kept)
+manuscript/*.aux
+manuscript/*.bbl
+manuscript/*.blg
+manuscript/*.fdb_latexmk
+manuscript/*.fls
+manuscript/*.log
+manuscript/*.out
+
+*.log
+.venv/
+__pycache__/
+.DS_Store
+manuscript/build.txt
